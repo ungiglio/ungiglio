@@ -1,16 +1,32 @@
-## Hi there 👋
+## About Me
 
-<!--
-**ungiglio/ungiglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm ungiglio, a passionate student based in Italy. I love working with codes and am always excited to learn new things in the world of technology.
 
-Here are some ideas to get you started:
+- ⚙️ I'm currently working on a custom [Discord theme](https://github.com/ungiglio/DiscordDiscordia)
+- 🌱 I'm currently learning [Ruby](https://www.ruby-lang.org/en/)
+- 💬 Ask me about anything related to HTML, CSS, JS, PHP, API, Json, Python, Lua, C++ or MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Works
+
+Here are some projects I'm working on:
+
+1. [Discordia](https://github.com/ungiglio/DiscordDiscordia)
+   - a Discord theme created to customize my own Discord client. Now available for everyone who wants to add a touch of elegance to their Discord interface. The theme features a beautiful purple shade (#b266ff) that transforms your Discord experience into something truly unique.
+   - CSS
+
+2. [OmegaBot]([Link to Project](https://sites.google.com/view/alpha-omega-bot/omega)
+   - OmegaBot is a private Discord bot designed for a discord server and its SWGoH community!
+   - Node.js, Discord.js - Self-Hosted
+  
+3. [AlphaBot]([Link to Project](https://sites.google.com/view/alpha-omega-bot/alpha)
+   - AlphaBot is my main Discord bot (verified) designed for the public, it can perform different tasks from moderation to utility.
+   - Node.js, Discord.js - Hosted on [pylexnodes](https://client.pylexnodes.net/)
+
+## Links
+
+- [@ungiglio](https://discord.com/users/76914453810721587) (Discord)
+- [@ungiglio](https://t.me/ungiglio) (Telegram)
+- [Discordia Project](https://github.com/ungiglio/DiscordDiscordia)
+- [Alpha&Omega Project](https://sites.google.com/view/alpha-omega-bot/home)
+
+Feel free to reach out if you want to collaborate on a project or just chat about tech!
