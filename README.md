@@ -26,6 +26,7 @@ Here are some projects I'm working on:
 
 - [@ungiglio](https://discord.com/users/76914453810721587) (Discord)
 - [@ungiglio](https://t.me/ungiglio) (Telegram)
+- [0009-0009-9490-2788](https://orcid.org/0009-0009-9490-2788) (ORCiD)
 - [Discordia Project](https://github.com/ungiglio/DiscordDiscordia)
 - [Alpha&Omega Project](https://sites.google.com/view/alpha-omega-bot/home)
 
