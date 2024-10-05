@@ -3,7 +3,6 @@
 Hello! I'm ungiglio, a passionate student based in Italy. I love working with codes and am always excited to learn new things in the world of technology.
 
 - ⚙️ I'm currently working on a custom [Discord theme](https://github.com/ungiglio/DiscordDiscordia)
-- 🌱 I'm currently learning [Ruby](https://www.ruby-lang.org/en/)
 - 💬 Ask me about anything related to HTML, CSS, JS, PHP, API, Json, Python, Lua, C++ or MySQL
 
 ## Works
