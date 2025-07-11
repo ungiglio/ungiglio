@@ -21,6 +21,9 @@ Here are some projects I'm working on:
    - AlphaBot is my main Discord bot (verified) designed for the public, it can perform different tasks from moderation to utility.
    - Node.js, Discord.js - Hosted on [pylexnodes](https://client.pylexnodes.net/)
 
+4. [ClioTimeline](https://github.com/ungiglio/ClioTimeline)
+   - Timeline maker made with react and next.js
+
 ## Links
 
 - [@ungiglio](https://discord.com/users/76914453810721587) (Discord)
