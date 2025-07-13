@@ -2,8 +2,7 @@
 
 Hello! I'm ungiglio, a passionate student based in Italy. I love working with codes and am always excited to learn new things in the world of technology.
 
-- ⚙️ I'm currently working on a custom [Discord theme](https://github.com/ungiglio/DiscordDiscordia)
-- 💬 Ask me about anything related to HTML, CSS, JS, PHP, API, Json, Python, Lua, C++ or MySQL
+- ⚙️ I'm currently working on a custom tool to study history: [**Clio**Timeline](https://cliotimeline.vercel.app)
 
 ## Works
 
@@ -13,16 +12,17 @@ Here are some projects I'm working on:
    - a Discord theme created to customize my own Discord client. Now available for everyone who wants to add a touch of elegance to their Discord interface. The theme features a beautiful purple shade (#b266ff) that transforms your Discord experience into something truly unique.
    - CSS
 
-2. [OmegaBot](https://sites.google.com/view/alpha-omega-bot/omega)
-   - OmegaBot is a private Discord bot designed for a discord server and its SWGoH community!
-   - Node.js, Discord.js - Self-Hosted
+2. [Mythara](https://sites.google.com/view/alpha-omega-bot/omega)
+   - Mythara is a private Discord bot designed for a discord server and its SWGoH community!
+   - Node.js, Discord.js - Hosted on [Render](https://render.com)
   
 3. [AlphaBot](https://sites.google.com/view/alpha-omega-bot/alpha)
    - AlphaBot is my main Discord bot (verified) designed for the public, it can perform different tasks from moderation to utility.
-   - Node.js, Discord.js - Hosted on [pylexnodes](https://client.pylexnodes.net/)
+   - Node.js, Discord.js - Self-Hosted
 
-4. [ClioTimeline](https://github.com/ungiglio/ClioTimeline)
-   - Timeline maker made with react and next.js
+4. [**Clio**Timeline](https://cliotimeline.vercel.app)
+   - Timeline maker for history students
+   - React, Next.js - Hosted on [Vercel](https://vercel.com)
 
 ## Links
 
@@ -31,5 +31,6 @@ Here are some projects I'm working on:
 - [0009-0009-9490-2788](https://orcid.org/0009-0009-9490-2788) (ORCiD)
 - [Discordia Project](https://github.com/ungiglio/DiscordDiscordia)
 - [Alpha&Omega Project](https://sites.google.com/view/alpha-omega-bot/home)
+- [**Clio**Timeline](https://cliotimeline.vercel.app)
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech!
