@@ -12,11 +12,11 @@ Here are some projects I'm working on:
    - a Discord theme created to customize my own Discord client. Now available for everyone who wants to add a touch of elegance to their Discord interface. The theme features a beautiful purple shade (#b266ff) that transforms your Discord experience into something truly unique.
    - CSS
 
-2. [Mythara](https://sites.google.com/view/alpha-omega-bot/omega)
+2. Mythara
    - Mythara is a private Discord bot designed for a discord server and its SWGoH community!
-   - Node.js, Discord.js - Hosted on [Render](https://render.com)
+   - Node.js, Discord.js - Self-Hosted
   
-3. [AlphaBot](https://sites.google.com/view/alpha-omega-bot/alpha)
+3. AlphaBot
    - AlphaBot is my main Discord bot (verified) designed for the public, it can perform different tasks from moderation to utility.
    - Node.js, Discord.js - Self-Hosted
 
