@@ -16,7 +16,7 @@ Here are some projects I'm working on:
    - Mythara is a private Discord bot designed for a discord server and its SWGoH community!
    - Node.js, Discord.js - Self-Hosted
   
-3. AlphaBot
+3. [AlphaBot](https://discord.com/discovery/applications/1247590819066679416)
    - AlphaBot is my main Discord bot (verified) designed for the public, it can perform different tasks from moderation to utility.
    - Node.js, Discord.js - Self-Hosted
 
@@ -30,7 +30,7 @@ Here are some projects I'm working on:
 - [@ungiglio](https://t.me/ungiglio) (Telegram)
 - [0009-0009-9490-2788](https://orcid.org/0009-0009-9490-2788) (ORCiD)
 - [Discordia Project](https://github.com/ungiglio/DiscordDiscordia)
-- [Alpha&Omega Project](https://sites.google.com/view/alpha-omega-bot/home)
+- [Alpha](https://discord.com/discovery/applications/1247590819066679416)
 - [**Clio**Timeline](https://cliotimeline.vercel.app)
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech!
